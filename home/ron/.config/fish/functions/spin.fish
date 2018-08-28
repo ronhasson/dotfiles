@@ -1,0 +1,1 @@
+/home/ron/.config/fisherman/spin/spin.fish

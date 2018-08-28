@@ -1,0 +1,1 @@
+/home/ron/.config/fisherman/getopts/getopts.fish

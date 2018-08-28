@@ -1,0 +1,6 @@
+#! /bin/bash
+rpm -e       brscan-skey
+
+
+
+exit 0

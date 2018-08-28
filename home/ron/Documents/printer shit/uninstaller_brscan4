@@ -1,0 +1,6 @@
+#! /bin/bash
+rpm -e       brscan4
+
+
+
+exit 0
